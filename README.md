@@ -43,3 +43,7 @@ This project exists thanks to my youtube audience who contribute.
 [MIT](LICENSE) © Md Al Mamun
 
 # demo-mern-job-portal-server
+
+HERE IS THE BELOW OUTPUT IMAGE  THAT TELLING IT WILL RUNNIGN THE BACKEND  
+![image](https://github.com/user-attachments/assets/13d54815-a47d-420d-b3f2-5ad000dfd4be)
+
